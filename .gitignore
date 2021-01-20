@@ -131,3 +131,5 @@ dmypy.json
 
 # data
 data/
+state_dict/
+state_dicts/
